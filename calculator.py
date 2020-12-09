@@ -1,0 +1,8 @@
+a = input("Enter variable a : ")
+b = input("Enter variable b : ")
+af = int(a)
+bf = int(b)
+print("a - b =", af - bf )
+print("a + b =", af + bf )
+print("a * b =", af * bf )
+print("a / b =", af / bf )
